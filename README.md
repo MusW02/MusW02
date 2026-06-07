@@ -147,9 +147,6 @@ Some project code, datasets, model weights, and partner-specific details are pri
 
 </div>
 
-> Note: Some of my most substantial work is private due to NDA, so public GitHub stats don't fully represent my overall engineering output.
----
-
 ## Recognition
 
 - 🥈 **Runner-up** — Data Alchemy, Nexus 2025
@@ -166,7 +163,5 @@ Some project code, datasets, model weights, and partner-specific details are pri
 <a href="https://www.linkedin.com/in/mustafa-waqar-431975293">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%" />
 </div>
